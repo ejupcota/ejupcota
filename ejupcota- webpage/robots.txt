@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ejupcota.github.io/sitemap.xml
